@@ -74,8 +74,7 @@ After registration, you will be redirected to the dashboard.
 
 If you encounter any issues during registration, please check the browser console for errors or refer to the Laravel logs for more details.
 
-## Contributors
-- **Vicky Maulana** - [GitHub](https://github.com/vickymaulana)
+
 
 ### Special Thanks
 I extend my gratitude to all the interns at LLDIKTI 2 Division of Information System Development for their contributions and support.
