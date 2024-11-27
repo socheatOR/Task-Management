@@ -31,7 +31,7 @@ class HomeController extends Controller
         // You can pass data to your view here
         $cards = [
             ['title' => 'Total Task', 'description' => $taskTotal],
-            ['title' => 'Task Complete', 'description' => $taskCompleted],
+            ['title' => 'Task Completed', 'description' => $taskCompleted],
         ];
 
         return view('home', compact('cards','taskGroupBy'));
