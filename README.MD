@@ -3,3 +3,4 @@
 - php artisan migrate
 - php artisan db:seed --class=TaskSeeder
 - php artisan ser
+- php artisan test
