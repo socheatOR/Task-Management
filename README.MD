@@ -1,7 +1,5 @@
 - composer install
 - npm install
-- php artisan make:model Task -m
-- Php artisan migrate
-- php artisan make:seeder TaskSeeder
+- php artisan migrate
 - php artisan db:seed --class=TaskSeeder
 - php artisan ser
